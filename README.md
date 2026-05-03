@@ -1,5 +1,6 @@
 # KQC7016-Lab1-Team39
 I wanna write down some of my thoughts here
+
 While working on my assignments, I realized that AI is honestly much more capable than I am. I have been using GPT and Claude to assist me, and I found that in terms of the depth and breadth of ideas, as well as coding and editing ability, these AI tools seem to outperform me in almost every aspect.
 When I write assignments, I often ask AI for help. Sometimes it brings up points that I had not thought of myself, and I really want to include those ideas in my work. However, once I add them, I start to worry that the whole paper will look too AI-generated. This puts me in a very difficult position.
 I feel genuinely anxious that AI might eventually replace me. At the same time, my lecturer has tried to comfort us by saying that it is difficult for us to be replaced by AI. But is that really true?
